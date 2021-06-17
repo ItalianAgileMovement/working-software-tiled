@@ -1,6 +1,7 @@
 --- Intre
 We Are Hiring 	-> https://drive.google.com/file/d/1Z85BxVoWnWu9oHfyp_dX9D9w1ZqL6zvy/preview
 Document 	-> https://drive.google.com/file/d/1267AGu-2FZ3Sn20sMRGU9yTHWZ0beY1B/preview
+Book		-> https://www.intre.it/blog/
 Laptop 		-> https://youtube.com/playlist?list=PLIrsKxAKvlRT3CKj5-i0q1loO5Hx2I80S
 Whiteboard 	-> https://www.intre.it/
 
@@ -38,4 +39,12 @@ Document 	-> https://drive.google.com/file/d/1_vqSmW44dBeLFwzYjVBS1I5pVvs0cTUf/p
 Laptop 		-> https://www.youtube.com/embed/5mEOA6Z2-_4
 Whiteboard 	-> https://golee.it/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYaNJBOqf8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--- AppQuality
+We are Hiring 	-> "Ciao!! Non abbiamo posizioni pubblicate in questi giorni ma il Tech team è in forte crescita e ne avremo presto, tieni d'occhio il nostro linkedin o il nostro sito https://www.app-quality.com/careers/ . Se ti piace la sfida di aiutare qualsiasi società a creare prodotti di qualità e pensi di avere qualcosa da dire a riguardo non esitare a scrivere a matteo.toto@app-quality.com"
+Book 		-> https://blog.app-quality.com/it
+Laptop 		->  https://www.youtube.com/watch?v=ZMHv_JScb5s
+Whiteboard 	->
+"Se non ci trovi al tavolo è perchè siamo a seguire un talk (ci piace confrontarci), in una riunione (siamo dei gran lavoratori) o a fare un tuffo in piscina (siamo tutti in smartworking), ti chiediamo scusa, però se hai voglia di conoscerci non esitare a contattarci su linkedin o via mail a matteo.toto@app-quality.com.
+Ciao da Matteo, il CTO."
+
+

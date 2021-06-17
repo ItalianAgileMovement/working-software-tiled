@@ -18,3 +18,16 @@ Document 	-> https://drive.google.com/file/d/1fV6YSfFSVto1P82_WaCqa2jmXbcj3xAO/p
 Book 		-> https://drive.google.com/file/d/1R7b8jvfxuIZXR_Df2HhTQlGwMetxUl1W/preview
 Laptop 		-> https://drive.google.com/file/d/1uErXjH-zG7MnwIUWnsEdHtzw5vfeMlGn/preview
 Whiteboard 	-> https://www.casavo.com/it
+
+
+--- Mia
+We are Hiring -> Premi x per vedere le posizioni aperte
+	https://www.mia-platform.eu/it/career
+Document -> Premi x per iscriverti alla nostra Newsletter
+	https://resources.mia-platform.eu/it/iscrizione-general-newsletter
+Book -> Premi x per scoprire tutto sul nostro prodotto
+	https://docs.mia-platform.eu/
+Laptop -> Come lavoriamo? Premi x per guardare i video dei nostri Meetup
+	https://www.youtube.com/channel/UCWEgCxRmFgHgCwV3ntZ2hvA
+Whiteboard -> Premi x per navigare nel sito di Mia-Platform
+	https://www.mia-platform.eu/it/

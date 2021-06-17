@@ -28,6 +28,14 @@ Document -> Premi x per iscriverti alla nostra Newsletter
 Book -> Premi x per scoprire tutto sul nostro prodotto
 	https://docs.mia-platform.eu/
 Laptop -> Come lavoriamo? Premi x per guardare i video dei nostri Meetup
-	https://www.youtube.com/channel/UCWEgCxRmFgHgCwV3ntZ2hvA
+	https://www.youtube.com/embed/rYaNJBOqf8w
 Whiteboard -> Premi x per navigare nel sito di Mia-Platform
 	https://www.mia-platform.eu/it/
+
+--- Golee
+We are Hiring 	-> https://lavoro.dev/annuncio/2ccce799-a6c2-4bc1-8cc2-40f7444fb66a
+Document 	-> https://drive.google.com/file/d/1_vqSmW44dBeLFwzYjVBS1I5pVvs0cTUf/preview
+Laptop 		-> https://www.youtube.com/embed/5mEOA6Z2-_4
+Whiteboard 	-> https://golee.it/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYaNJBOqf8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
